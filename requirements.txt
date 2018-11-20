@@ -1,0 +1,12 @@
+opencv-contrib-python==3.4.0.12
+tqdm==4.19.5
+numpy==1.13.3
+matplotlib==2.1.1
+PyMuPDF==1.12.5
+attrs==17.4.0
+celery
+falcon
+falcon-multipart
+pandas
+sqlalchemy
+scipy
